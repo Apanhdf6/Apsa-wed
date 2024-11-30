@@ -135,8 +135,8 @@ body {
         font-size: 65%;
     }
     .simply-countdown>.simply-section{
-        padding: 60px;
-        margin: 5px;
+        padding: 50px;
+        margin: 4px;
     }
     .mynavbar .nav-link {
         font-size: 2rem;
@@ -149,7 +149,7 @@ body {
         font-size: 60%;
     }
     .simply-countdown>.simply-section{
-        padding: 40px;
+        padding: 30px;
         margin: 3px;
     }
 }
