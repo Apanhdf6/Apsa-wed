@@ -126,9 +126,10 @@ body {
     .mynavbar .nav-link {
         font-size: 2rem;
         text-align: center;
+    }
 }
 /* mobile phone */
-@media (max-width: 576px) {
+@media (max-width: 550px) {
     html {
         font-size: 60%;
     }
