@@ -152,6 +152,28 @@ body {
     font-weight: 300;
 }
 
+.info .card {
+    background-color: rgba(255, 255, 255, .2) !important;
+    color: white !important;
+    border: 1px solod #999;
+}
+
+.info .card-header {
+    border-bottom: 1px solod #999;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+.info .card-body {
+    font-size: 1rem;
+}
+
+.info .card-footer {
+    border-bottom: 1px solod #999;
+    font-size: .9rem;
+    font-weight: 300;
+
+}
 
 /* Media Query */
 
