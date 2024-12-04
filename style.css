@@ -8,7 +8,6 @@ body {
     font-size: 1.2rem;
     font-family: 'Work Sans', sans-serif;
     min-height: 2000px;
-    max-width: 100%;
 }
 
 .hero::before {
@@ -370,7 +369,7 @@ body {
     }
 }
 /* mobile phone */
-@media (max-width: 576px) {
+@media (max-width: 393px) {
     html {
         font-size: 60%;
     }
